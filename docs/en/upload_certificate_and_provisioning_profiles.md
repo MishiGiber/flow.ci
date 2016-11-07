@@ -10,6 +10,7 @@ Your provisioning profiles can be found and directly downloaded from your Apple 
 Open the Keychain and select Certificates.
 
 <img src="https://dn-shimo-image.qbox.me/wpME1XEV120bvt88/image.png!thumbnail" width=680>
+
 Click your certificate to expose your Private Key. Choose both certificate and private key, then click Export and save your Private Key.
 
 <img src="https://dn-shimo-image.qbox.me/Tu06O2H8Uu4alWhL/image.png!thumbnail" width=680>
