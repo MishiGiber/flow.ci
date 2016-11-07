@@ -1,6 +1,8 @@
 
 # Manual Build Webhook 
 
+Among other build trigger methods, in Flow.ci you can also trigger builds manually by using Webhook. To set up a Webhook trigger you need to use the following API parameters listed below. 
+
 > Post https://api.flow.ci/projects/{project_id}/manual_hook
 
 ## Request Parameters
@@ -24,7 +26,7 @@
       <tr>
         <td>user_commit_data</td>
         <td>No</td>
-        <td>Custom Environment Variables，transmitted the datas as a hash.Eg. {“a”: 1, “b”: “Hello world”}</td>
+        <td>Custom environment variables where the data transmitted as a hash. Eg. {“a”: 1, “b”: “Hello world”}</td>
     </tr>
 </table>
     
