@@ -1,7 +1,7 @@
 
 # Manual Build Webhook 
 
-Among other build trigger methods, in Flow.ci you can also trigger builds manually by using Webhook. To set up a Webhook trigger you need to use the following API parameters listed below. 
+Among other build trigger methods, in Flow.ci you can also trigger builds manually by using Webhook. To set up a Webhook trigger you need to use the following API parameters listed below.  
 
 > Post https://api.flow.ci/projects/{project_id}/manual_hook
 
